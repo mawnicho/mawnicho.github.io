@@ -9,7 +9,7 @@
 
 <channel>
 	<title>Martin Nicholson</title>
-	<atom:link href="http://localhost/wordpress/feed/?simply_static_page=87" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/wordpress/feed/?simply_static_page=117" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description></description>
 	<lastBuildDate>Wed, 28 Jun 2023 18:58:07 +0000</lastBuildDate>
@@ -19,14 +19,6 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.2.2</generator>
-
-<image>
-	<url>/wp-content/uploads/2023/06/IMG_0136-edited-150x150.jpg</url>
-	<title>Martin Nicholson</title>
-	<link></link>
-	<width>32</width>
-	<height>32</height>
-</image> 
 	<item>
 		<title>Experience</title>
 		<link>/2023/06/28/experience/</link>
